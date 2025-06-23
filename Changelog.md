@@ -1,3 +1,4 @@
 Face Unlock Fix is here! 
 New features:
-• Automatically restart when need
+• Fully stable!
+• Don't forgot to disable flag "Auto dismiss lockscreen"!
