@@ -1,6 +1,6 @@
 {
-  "version":"1.2",
-  "versionCode":"3",
-  "zipUrl":"https://github.com/ssalemov/FaceUnlockFix/releases/download/v1.2/FaceUnlock.zip",
+  "version":"1.2.1",
+  "versionCode":"4",
+  "zipUrl":"https://github.com/ssalemov/FaceUnlockFix/releases/download/v1.2.1/FaceUnlock.zip",
   "changelog":"https://raw.githubusercontent.com/ssalemov/FaceUnlockFix/main/Changelog.md"
 }
